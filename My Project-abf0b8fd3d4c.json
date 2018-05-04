@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "jovial-idiom-202214",
+  "private_key_id": "abf0b8fd3d4ca2fae6e2cb673200cbbb2cb82941",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDpbuONXwuygF/T\nVKnZkDVxUEvEjMi+a25bAXa0eOnDIVkUgLoXWZw+rGBerDq1HybHu7j1/KczlG69\nJ8ewQb1KrNvj8+kRgytFHH8jP7n+/IFb3YBzzzGm8WuGDXCl/xqqKPzKlOHLMAay\nQtWSUZt8ezf5pU1NqqOwnemjiT5SnEdFV9V7f5d1/apAhtVoYkfbJW/Jf4H/Fz0m\n7YwchKkKo7qYaOhahH0l55QCNWAOgxMtkQGqnDAzIO8EVzlrabPOOAw9fb8sy28C\nUil2PzZEkn/pSokEDkiixh43ao+wdaz9BMskxWrJOCAv41ysyryb/V252O9Ef3y9\nPGxNMqLrAgMBAAECggEARavvpevG2X2gXDqKQWHd2Za+LolYhyEYfHgY3m+yUae7\n5zcuk7aOwFQBpXAhS5rjH70jTOQeYXI9hR6A5tYQMeAa91P+7depDAUf2zzzfiwO\nTgV0B9zA9JNc5NNRGnJkGoKGRM6f/92zOfRhuzy5PDOots3EH1i9Z4MST1mwrMXf\nQKQMJjV5VHt9bKN9U6GZ3lG3VAG7o3bE5yzRO4b8ddnfeJHDHSD6uYBFThrLAoer\nxDNBrxKr/OA6KEvGuFu+29CEId6yUN/nTX7miTZEyV0y9tlrgN5bCtsRA3gIign6\nrdOChLBCTixO+RjJmNwVxu/WAL84WmpuHVFykZJ1MQKBgQD1UVdgan6xqgjI9Q8I\nvi8zBkGQdfk+2wp72VuiqctdwSps0TR/OOx0sG1nIVOUonFNyJ+tJtalC8VndbIk\nRq8lqRU6hv9YcLG4D6MGYipu9VIMX+FYnCw0rChl2qQmHYS3QSfzHhz+9pqkvvUG\nFdHID04drJoZnoEZA3xw2S4vmwKBgQDzmRCx+QaBUuKyMNr/VPetQDbBE/Gwn2Af\n9bXEP6jgOC/zPSdXHhkoP7n+NAGxs2ao79+yNF1R1gI9Kr+BmUEvPv+t/5Bmn2Il\nSMjn9dTsln6Kh/JUVYKNgU99oZ8rS7LbO+cZmvndirDWOyaRCye/ibZTKJbNMta4\ne/MQiymW8QKBgBjrH0YC60WesO/AvLs1nlO/ge9rnFq/Iyx7Yqx+NNMcKPQOuBdo\nL9SWizZbk0LY0UuGYnnTJSB0tqOQt/ypVWcs6qQcTFmucM7yf6vJUugccS4imyBG\nFNNw3VWjROM+Qlne+3DdkTJw2Dp9zyPEGaAJtfSbsLeDezeQPBa2aNObAoGAEqIR\nsdtfkQLbDlBIYCGKtHjl90zkPuNiAe/UkIdiDoydtlhmKvbFa9u8CWLHAmW7o459\nqO7yeHELSMx9S5eCce+6tP+IdyEX68wueffG6rX0RfpyIdtMmjBa+TwkpbYrnzNs\n0PuWw0h5kFmD8LJOvwr0pFXFezq5S/FHPWu3qbECgYBCjLGiR8+RnvN1UAlrmGyn\n8hZ5Pd7sQMPqGn5KztJhZKV90A8787VWSkq/ooSt+siHhiyvQJZIr6QkfUoDFpqa\n6O5pKm9LkH7C/7V3gOSxDdHfHflxDtIhjAFe32gzRQBuIaFGzeK4B7ACodFbOh+k\n0uLp8/86y8KshxCDhJX06Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloudvisionapi@jovial-idiom-202214.iam.gserviceaccount.com",
+  "client_id": "116128140077394495633",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloudvisionapi%40jovial-idiom-202214.iam.gserviceaccount.com"
+}

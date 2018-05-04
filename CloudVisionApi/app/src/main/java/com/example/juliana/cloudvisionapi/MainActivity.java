@@ -31,8 +31,9 @@ public class MainActivity extends AppCompatActivity {
         try (ImageAnnotatorClient vision = ImageAnnotatorClient.create()) {
 
             // The path to the image file to annotat
-            getURLForResource(R.drawable.maleta);
-            String fileName = "drawable://" + R.drawable.maleta;
+    
+              String fileName = "./resources/wakeupcat.jpg";
+           // String fileName = "drawable://" + R.drawable.maleta;
            // String fileName = R.drawable.maleta;
 
             // Reads the image file into memory
